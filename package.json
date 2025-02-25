@@ -1,0 +1,14 @@
+{
+    "name": "clean-cypress",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "cy:dev": "npx cypress open -e envName=dev"
+    },
+    "author": "Roy Peng",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "cypress": "^14.0.3"
+    }
+}

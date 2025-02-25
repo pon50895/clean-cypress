@@ -1,0 +1,9 @@
+{
+    "baseUrl":"https://example.com",
+    "env": {
+        "envName": "dev",
+        "user":{
+            "account": "password"
+        }
+    }
+}
